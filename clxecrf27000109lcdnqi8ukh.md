@@ -1,14 +1,6 @@
 ---
-title: "Why DevOps? 🌟"
-seoTitle: "Introduction to DevOps"
-seoDescription: "why DevOps ???"
-datePublished: Fri Jun 14 2024 07:13:44 GMT+0000 (Coordinated Universal Time)
-cuid: clxecrf27000109lcdnqi8ukh
-slug: why-devops
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1718348782193/4782bd30-d96c-4cb7-9437-657f8f329e15.jpeg
-tags: aws, development, devops, devops-articles, tws, lwd, diu
+ Why DevOps? 🌟
 
----
 
 ### Introduction 🚀
 
