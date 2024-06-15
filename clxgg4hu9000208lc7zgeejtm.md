@@ -1,12 +1,5 @@
 ---
 title: "🚀 Deploying a Simple Flask App with Docker"
-seoTitle: "projects on Docker , Projects on DevOps "
-seoDescription: "Deploying a Simple Flask App web application using docker "
-datePublished: Sat Jun 15 2024 18:23:25 GMT+0000 (Coordinated Universal Time)
-cuid: clxgg4hu9000208lc7zgeejtm
-slug: deploying-a-simple-flask-app-with-docker
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1718475691328/2544d3b4-6c80-47c1-8da3-a38390c27a43.jpeg
-tags: docker, aws, devops, tws, diu
 
 ---
 
