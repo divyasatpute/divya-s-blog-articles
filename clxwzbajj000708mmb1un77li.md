@@ -132,9 +132,9 @@ URL : http : // EC2-VM-Public-IP :8080/
 * File Location : &lt;Tomcat &gt;/webapps/manager/META-INF/context.xml
     
 * ```apache
-            <context antiResourceLocking="false" privileged="true" >
-                <valve className="org.apache.catalina.valves.RemoteAddrValve" allow".*"  />
-            </context>
+              <context antiResourceLocking="false" privileged="true" >
+                  <valve className="org.apache.catalina.valves.RemoteAddrValve" allow".*"  />
+              </context>
     ```
     
     Add Tomcat Users in Tomcat/conf/tomcat/tomcat-users.xml file like below /
@@ -146,7 +146,8 @@ URL : http : // EC2-VM-Public-IP :8080/
 <role rolename="manager-gui" />
 <user username="tomcat" password="tomcat" roles="manager-gui" />
 <role rolename="divya-gui" />
-<user username="divya" password="divya" roles="manager-gui,divya-gui" />
+<role rolename="manager-script"/> 
+<user username="divya" password="divya" roles="manager-gui,divya-gui, manager-script"/>
 ```
 
 We can change tomcat servers default port in tomcat/conf/server.xml file
