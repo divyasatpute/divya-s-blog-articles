@@ -28,7 +28,7 @@ Hey there! 🎉 Ready to dive into Jenkins? Whether you're new to CI/CD or just 
     * Jenkins is part of Hudson Project
         
 
-**Initially it is called as <mark> Hudson</mark> then later it renamed to <mark>Jenkins</mark>**
+**Initially it is called as <mark>Hudson</mark> then later it renamed to <mark>Jenkins</mark>**
 
 🎬**About CI CD**
 
@@ -103,7 +103,7 @@ $sudo apt update -y
     
 
 ```bash
-$sudo apt install java-1.8.0-openjdk-devel
+sudo apt install openjdk-11-jdk -y
 ```
 
 ### Step 2
