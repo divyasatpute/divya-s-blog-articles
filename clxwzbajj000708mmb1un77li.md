@@ -50,7 +50,7 @@ Here , the steps we need to follow for set up tomcat
     
 
 ```bash
-sudo apt install java-1.8.0-openjdk
+sudo apt install openjdk-11-jdk -y
 ```
 
 * Verify the version of java installed in our machine
@@ -132,9 +132,9 @@ URL : http : // EC2-VM-Public-IP :8080/
 * File Location : &lt;Tomcat &gt;/webapps/manager/META-INF/context.xml
     
 * ```apache
-          <context antiResourceLocking="false" privileged="true" >
-              <valve className="org.apache.catalina.valves.RemoteAddrValve" allow".*"  />
-          </context>
+            <context antiResourceLocking="false" privileged="true" >
+                <valve className="org.apache.catalina.valves.RemoteAddrValve" allow".*"  />
+            </context>
     ```
     
     Add Tomcat Users in Tomcat/conf/tomcat/tomcat-users.xml file like below /
