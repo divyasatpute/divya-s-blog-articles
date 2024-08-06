@@ -103,7 +103,8 @@ $sudo apt update -y
     
 
 ```bash
-sudo apt install openjdk-11-jdk -y
+sudo apt install openjdk-17-jdk -y
+#choose version and install version accoding to official document which support jenkins
 ```
 
 ### Step 2
