@@ -15,8 +15,8 @@ Hey folks, remember the thrill of 90’s gaming? Let’s step back in time and r
 
 Super Mario is a classic game loved by many. In this guide, we’ll explore how to deploy a Super Mario game on Amazon’s Elastic Kubernetes Service (EKS). Utilizing Kubernetes, we can orchestrate the game’s deployment on AWS EKS, allowing for scalability, reliability, and easy management.
 
-<mark>𝗚𝗶𝘁𝗛𝘂𝗯 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆 </mark> :[https://lnkd.in/dXrecTvd  
-<mark>𝗷𝗼𝗶𝗻</mark>](https://lnkd.in/dXrecTvd￼𝗷𝗼𝗶𝗻) [<mark> 𝘄𝗵𝗮𝘁𝘀𝗮𝗽�</mark>](https://lnkd.in/dXrecTvd)<mark>� 𝗴𝗿𝗼𝘂𝗽 𝗧𝗲𝗮𝗰𝗼𝗱𝗲 𝟭𝟭𝟮𝟮</mark>
+<mark>𝗚𝗶𝘁𝗛𝘂𝗯 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆 </mark> : https://github.com/divyasatpute/day13-project13-lets-fun-gamewithmario.git[  
+<mark>𝗷𝗼𝗶𝗻</mark>](https://lnkd.in/dXrecTvd%EF%BF%BC%F0%9D%97%B7%F0%9D%97%BC%F0%9D%97%B6%F0%9D%97%BB) [<mark>𝘄𝗵𝗮𝘁𝘀𝗮𝗽�</mark>](https://lnkd.in/dXrecTvd)<mark>� 𝗴𝗿𝗼𝘂𝗽 𝗧𝗲𝗮𝗰𝗼𝗱𝗲 𝟭𝟭𝟮𝟮</mark>
 
 ### Prerequisites:
 
